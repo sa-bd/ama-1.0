@@ -24,7 +24,7 @@ With the progress of time, Microsoft Learn Student Ambassadors from Bangladesh a
 
 ## :movie_camera: Event Recording
 
-[Event Reecording](https://youtu.be/02GRRQv-y5M) is now Available on **YouTube**
+[Event Recording](https://youtu.be/02GRRQv-y5M) is now Available on **YouTube**
 
 ## :star: Credits
 - [Anjum Rashid](https://github.com/bijoy26) (Ambassador) <br>
