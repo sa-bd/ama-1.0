@@ -6,7 +6,7 @@
 
 <br>
 <p align="center">
-  <img src="Assets/SA-BD AMA.jpg">
+  <img src="Assets/cover.png">
 </p>
 
 <br>
