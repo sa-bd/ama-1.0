@@ -32,11 +32,11 @@ With the progress of time, Microsoft Learn Student Ambassadors from Bangladesh a
 ### Grab the **Exclusive Handbook** on **Debunking Ambassador Myths**!
 
 
-<a download="Handbook-Link" href="https://github.com/sa-bd/ama-1.0/raw/main/Resources/Ambassador_Myths-Anjum_Rashid.pdf" title="Download Handbook">
+<a download="Handbook-Link" href="https://github.com/sa-bd/ama-1.0/blob/main/Resources/Ambassador_Myths_Handbook.pdf" title="Download Handbook">
     <img alt="Download" src="Assets/btn.png" width="172" height="50">
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsa-bd%2Fama-1.0%2Fraw%2Fmain%2FResources%2FAmbassador_Myths-Anjum_Rashid.pdf&count_bg=%23664FD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsa-bd%2Fama-1.0%2Fraw%2Fmain%2FResources%2FAmbassador_Myths_Handbook.pdf&count_bg=%23664FD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### The handbook covers- 
 * Common myths which tend to restrain a student to apply for the program  
