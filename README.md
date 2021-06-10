@@ -32,7 +32,7 @@ With the progress of time, Microsoft Learn Student Ambassadors from Bangladesh a
 ### Grab the **Exclusive Handbook** on **Debunking Ambassador Myths**!
 
 
-<a download="Handbook-Link" href="https://github.com/sa-bd/ama-1.0/blob/main/Resources/Ambassador_Myths_Handbook.pdf" title="Download Handbook">
+<a download="Handbook-Link" href="https://github.com/sa-bd/ama-1.0/raw/main/Resources/Ambassador_Myths_Handbook.pdf" title="Download Handbook">
     <img alt="Download" src="Assets/btn.png" width="172" height="50">
 </a>
 
