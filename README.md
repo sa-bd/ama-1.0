@@ -2,13 +2,15 @@
 
 <br>
 
-[![first-timers-friendly](https://img.shields.io/badge/Community-Power-blueviolet?style=for-the-badge&logo=appveyor)](#)
 
-<br>
+
 <p align="center">
-  <img src="Assets/cover.png">
+  <img src="Assets/ama_badge.png">
 </p>
 
+[![first-timers-friendly](https://img.shields.io/badge/Community-Power-blueviolet?style=for-the-badge&logo=appveyor)](#)
+[![first-timers-friendly](https://img.shields.io/badge/Myths-Debunked-orange?style=for-the-badge&logo=appveyor)](#)
+<br>
 <br>
 
 ## :scroll: Event Snippet
@@ -22,6 +24,24 @@ With the progress of time, Microsoft Learn Student Ambassadors from Bangladesh a
 - Question and Answer Session
 
 
+<p align="center">
+  <img src="Assets/cover.png">
+</p>
+
+## :books: Event Handbook 
+### Grab the **Exclusive Handbook** on **Debunking Ambassador Myths**!
+
+
+<a download="Handbook-Link" href="https://github.com/sa-bd/ama-1.0/raw/main/Resources/Ambassador_Myths-Anjum_Rashid.pdf" title="Download Handbook">
+    <img alt="Download" src="Assets/btn.png" width="172" height="50">
+</a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsa-bd%2Fama-1.0%2Fraw%2Fmain%2FResources%2FAmbassador_Myths-Anjum_Rashid.pdf&count_bg=%23664FD9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### The handbook covers- 
+* Common myths which tend to restrain a student to apply for the program  
+* Public beliefs and the actual facts 
+ 
 ## :movie_camera: Event Recording
 
 [Event Recording](https://youtu.be/02GRRQv-y5M) is now Available on **YouTube**
